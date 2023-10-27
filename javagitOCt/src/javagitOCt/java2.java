@@ -4,7 +4,7 @@ public class java2 {
 
 	public static void main(String[] args) {
 
-		System.out.println("CE#");
+		System.out.println("Perl");
 
 	}
 
